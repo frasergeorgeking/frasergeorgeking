@@ -8,7 +8,8 @@
 [![UE4_BP_MazeGen ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=frasergeorgeking&repo=UE4_BP_MazeGen_MIT&title_color=232323&text_color=2d2d2d&bg_color=ffca0a)][maze-generator]
 
 ### :cd: Primary Technologies
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_4-ffca0a?logo=unreal-engine&logoColor=2d2d2d)
+![Unreal Engine 4](https://img.shields.io/badge/Unreal_Engine_4-ffca0a?logo=unreal-engine&logoColor=2d2d2d)
+![UE4 Blueprints](https://img.shields.io/badge/Blueprints-ffca0a?logo=unreal-engine&logoColor=2d2d2d)
 ![C++](https://img.shields.io/badge/C++-ffca0a?logo=C&logoColor=2d2d2d)
 ![Unity](https://img.shields.io/badge/Unity-ffca0a?logo=unity&logoColor=2d2d2d)
 ![C Sharp](https://img.shields.io/badge/C_Sharp-ffca0a?logo=C-Sharp&logoColor=2d2d2d)

@@ -50,20 +50,20 @@ I'm also regularly chipping away at full game development - keep your eyes peele
 ### :books: Current Reading 
 I'm always trying to better myself and learn new and interesting things! I try to balance my reading between psychology and design books, as well as books with a more technical focus - here's what I'm reading at the moment:
 
-[:desktop_computer: Petzold, C. (2000) *Code: The Hidden Language of Computer Hardware and Software.*  Redmond, Washington: Microsoft Press.](https://openlibrary.org/works/OL1972516W/Code?edition=codehiddenlangua00petz_793)
+[:coffee: Norman, D. (2013) *The Design of Everyday Things.* Cambridge, Massachusetts: MIT Press.](https://openlibrary.org/works/OL17156280W/The_Design_of_Everyday_Things?edition=)
 
-[:speaking_head: Lieberman, M.D. (2015) *Social: Why our Brains are Wired to Connect.* Oxford: Oxford University Press.](https://openlibrary.org/books/OL28570930M/Social)
+[:desktop_computer: Petzold, C. (2000) *Code: The Hidden Language of Computer Hardware and Software.*  Redmond, Washington: Microsoft Press.](https://openlibrary.org/works/OL1972516W/Code?edition=codehiddenlangua00petz_793)
 
 [:office: Frederick, M. (2007) *101 Things I Learned in Architecture School.* Cambridge, Massachusetts: MIT Press.](https://openlibrary.org/works/OL17810345W/101_things_I_learned_in_architecture_school?edition=)
 
 ### :video_game: Current Games
 Making games is brilliant, however I also like to find time to play them too! Here's what I'm playing at the moment:
 
+[:zzz: Media Molecule (2020) *Dreams.* Sony Interactive Entertainment.](https://www.metacritic.com/game/playstation-4/dreams)
+
 [:baby: Kojima Productions (2019) *Death Stranding.* Sony Interactive Entertainment.](https://www.metacritic.com/game/playstation-4/death-stranding)
 
 [:skateboard: Vicarious Visions (2020) *Tony Hawk's Pro Skater 1+2.* Activision.](https://www.metacritic.com/game/playstation-4/tony-hawks-pro-skater-1-+-2)
-
-[:star: Nintendo (2020) *Super Mario 3D All-Stars.* Nintendo.](https://www.metacritic.com/game/switch/super-mario-3d-all-stars)
 
  <!--Markdown Hyperlink Definitions-->
 [website]: https://frasergeorgeking.com

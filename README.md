@@ -54,16 +54,15 @@ I'm always trying to better myself and learn new and interesting things! I try t
 
 [:desktop_computer: Petzold, C. (2000) *Code: The Hidden Language of Computer Hardware and Software.*  Redmond, Washington: Microsoft Press.](https://openlibrary.org/works/OL1972516W/Code?edition=codehiddenlangua00petz_793)
 
-[:office: Frederick, M. (2007) *101 Things I Learned in Architecture School.* Cambridge, Massachusetts: MIT Press.](https://openlibrary.org/works/OL17810345W/101_things_I_learned_in_architecture_school?edition=)
-
 ### :video_game: Current Games
 Making games is brilliant, however I also like to find time to play them too! Here's what I'm playing at the moment:
+
+[:dagger: Mega Crit Games (2019) *Slay the Spire.* ](https://www.metacritic.com/game/pc/slay-the-spire)
 
 [:zzz: Media Molecule (2020) *Dreams.* Sony Interactive Entertainment.](https://www.metacritic.com/game/playstation-4/dreams)
 
 [:baby: Kojima Productions (2019) *Death Stranding.* Sony Interactive Entertainment.](https://www.metacritic.com/game/playstation-4/death-stranding)
 
-[:skateboard: Vicarious Visions (2020) *Tony Hawk's Pro Skater 1+2.* Activision.](https://www.metacritic.com/game/playstation-4/tony-hawks-pro-skater-1-+-2)
 
  <!--Markdown Hyperlink Definitions-->
 [website]: https://frasergeorgeking.com

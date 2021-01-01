@@ -13,13 +13,14 @@
 ![C++](https://img.shields.io/badge/C++-ffca0a?logo=C&logoColor=2d2d2d)
 ![Unity](https://img.shields.io/badge/Unity-ffca0a?logo=unity&logoColor=2d2d2d)
 ![C Sharp](https://img.shields.io/badge/C_Sharp-ffca0a?logo=C-Sharp&logoColor=2d2d2d)
+![Markdown](https://img.shields.io/badge/Markdown-ffca0a?logo=Markdown&logoColor=2d2d2d)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-ffca0a?logo=Visual-Studio&logoColor=2d2d2d)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-ffca0a?logo=Visual-Studio-Code&logoColor=2d2d2d)
 ![Git](https://img.shields.io/badge/Git-ffca0a?logo=Git&logoColor=2d2d2d)
 ![GitHub](https://img.shields.io/badge/GitHub-ffca0a?logo=GitHub&logoColor=2d2d2d)
 ![Jira](https://img.shields.io/badge/Jira-ffca0a?logo=Jira&logoColor=2d2d2d)
 ![Trello](https://img.shields.io/badge/Trello-ffca0a?logo=Trello&logoColor=2d2d2d)
-![3DS Max](https://img.shields.io/badge/3DS_Max-ffca0a)
+![3DS Max](https://img.shields.io/badge/3DS_Max-ffca0a?logo=Autodesk&logoColor=2d2d2d)
 ![Blender](https://img.shields.io/badge/Blender-ffca0a?logo=Blender&logoColor=2d2d2d)
 ![Photoshop](https://img.shields.io/badge/Photoshop-ffca0a?logo=Adobe-Photoshop&logoColor=2d2d2d)
 
@@ -41,9 +42,9 @@ The best way of reaching out to me is via the contact page of my website [here][
 <br>
 
 ## :ledger: What am I Currently Working on?
-After receiving some commendations from developers who found my [UE4 Maze Generator][maze-generator] useful, I'm currently implementing some major new features (a sneak peek can be found on the dev branch [here](https://github.com/frasergeorgeking/UE4_BP_MazeGen_MIT/tree/dev) :eyes:). Vastly improved documentation, including on tile importing, CSV exporting and data table set-up is also coming soon.
+I recently released the major [v2.0 update](https://github.com/frasergeorgeking/UE4_BP_MazeGen_MIT/releases/tag/v2.0) of my [UE4 Maze Generator](https://github.com/frasergeorgeking/UE4_BP_MazeGen_MIT). This update includes the creation of a comprehensive [wiki](https://github.com/frasergeorgeking/UE4_BP_MazeGen_MIT/wiki), implementation of UE4's stream based RNG, custom in-editor UI, automated tile data table creation and experimental support for Unreal Engine 4.26.
 
-Additionally, I have a brand new procedural level design tool in the pipeline, which I hope to share more details about very shortly! :hourglass_flowing_sand:
+Additionally, I'm currently working on finalising the GitHub repository for my Unreal Engine 4 procedural mission generation tool! :hourglass:
 
 I'm also regularly chipping away at full game development - keep your eyes peeled on my social media channels for a behind the scenes look.
 
@@ -52,16 +53,18 @@ I'm always trying to better myself and learn new and interesting things! I try t
 
 [:coffee: Norman, D. (2013) *The Design of Everyday Things.* Cambridge, Massachusetts: MIT Press.](https://openlibrary.org/works/OL17156280W/The_Design_of_Everyday_Things?edition=)
 
-[:desktop_computer: Petzold, C. (2000) *Code: The Hidden Language of Computer Hardware and Software.*  Redmond, Washington: Microsoft Press.](https://openlibrary.org/works/OL1972516W/Code?edition=codehiddenlangua00petz_793)
+[:snake: Vaughan, L. (2018) *Impractical Python Projects: Playful Programming Activities to Make You Smarter.* San Francisco, California: No Starch Press, Inc.](https://openlibrary.org/books/OL26832997M/Impractical_Python_Projects_Playful_Programming_Activities_to_Make_You_Smarter)
+
+[:brain: Du Sautoy, M. (2020) *The Creativity Code: How AI is Learning to Write, Paint and Think.* London: 4th Estate.](https://openlibrary.org/works/OL20156318W/The_Creativity_Code)
 
 ### :video_game: Current Games
 Making games is brilliant, however I also like to find time to play them too! Here's what I'm playing at the moment:
 
-[:dagger: Mega Crit Games (2019) *Slay the Spire.* ](https://www.metacritic.com/game/pc/slay-the-spire)
+[:yellow_square: CD Projekt Red Studio (2020) *Cyberpunk 2077.* Warner Bros. Interactive Entertainment.](https://www.metacritic.com/game/pc/cyberpunk-2077)
+
+[:alien: Paradox Interactive (2016) *Stellaris.*](https://www.metacritic.com/game/pc/stellaris)
 
 [:zzz: Media Molecule (2020) *Dreams.* Sony Interactive Entertainment.](https://www.metacritic.com/game/playstation-4/dreams)
-
-[:baby: Kojima Productions (2019) *Death Stranding.* Sony Interactive Entertainment.](https://www.metacritic.com/game/playstation-4/death-stranding)
 
 
  <!--Markdown Hyperlink Definitions-->

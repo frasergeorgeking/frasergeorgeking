@@ -6,6 +6,7 @@
 
 ## :floppy_disk: Open Source Projects
 [![UE4_BP_MazeGen ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=frasergeorgeking&repo=UE4_BP_MazeGen_MIT&title_color=232323&text_color=2d2d2d&bg_color=ffca0a)][maze-generator]
+[![UE4_BP_MissionGen ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=frasergeorgeking&repo=UE4_MissionGen_MIT&title_color=232323&text_color=2d2d2d&bg_color=ffca0a)][mission-generator]
 
 ### :cd: Primary Technologies
 ![Unreal Engine 4](https://img.shields.io/badge/Unreal_Engine_4-ffca0a?logo=unreal-engine&logoColor=2d2d2d)
@@ -25,7 +26,7 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-ffca0a?logo=Adobe-Photoshop&logoColor=2d2d2d)
 
 ## :blond_haired_man: A Little Bit About Me...
-Hello! I'm Fraser, a recent graduate of the Games Design course at the University of Suffolk :mortar_board:. I'm a game designer with a variety of interests spanning from emotive design to procedural generation and much, much more!
+Hello! I'm Fraser, a junior game designer. I have a variety of interests spanning from emotive design to procedural generation and much, much more!
 
 I design and develop games, as well as tools aimed to empower developers. If you have any inquiries about any of my projects, please get in touch using my details below. 
 
@@ -42,9 +43,7 @@ The best way of reaching out to me is via the contact page of my website [here][
 <br>
 
 ## :ledger: What am I Currently Working on?
-I recently released the major [v2.0 update](https://github.com/frasergeorgeking/UE4_BP_MazeGen_MIT/releases/tag/v2.0) of my [UE4 Maze Generator](https://github.com/frasergeorgeking/UE4_BP_MazeGen_MIT). This update includes the creation of a comprehensive [wiki](https://github.com/frasergeorgeking/UE4_BP_MazeGen_MIT/wiki), implementation of UE4's stream based RNG, custom in-editor UI, automated tile data table creation and experimental support for Unreal Engine 4.26.
-
-Additionally, I'm currently working on finalising the GitHub repository for my Unreal Engine 4 procedural mission generation tool! :hourglass:
+I recently released the [v0.8 beta](https://github.com/frasergeorgeking/UE4_MissionGen_MIT/releases/tag/v0.8) of my Unreal Engine 4 mission generator. The generator implements the theory of generative grammars in order to produce a linear sequence of tasks. For more information and to download the project, please see the repo page [here.][mission-generator]
 
 I'm also regularly chipping away at full game development - keep your eyes peeled on my social media channels for a behind the scenes look.
 
@@ -74,3 +73,4 @@ Making games is brilliant, however I also like to find time to play them too! He
 [instagram]: https://www.instagram.com/frasergeorgeking/
 [twitter]: https://twitter.com/frasergking
 [maze-generator]: https://github.com/frasergeorgeking/UE4_BP_MazeGen_MIT
+[mission-generator]: https://github.com/frasergeorgeking/UE4_MissionGen_MIT

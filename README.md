@@ -52,19 +52,18 @@ I'm always trying to better myself and learn new and interesting things! I try t
 
 [:coffee: Norman, D. (2013) *The Design of Everyday Things.* Cambridge, Massachusetts: MIT Press.](https://openlibrary.org/works/OL17156280W/The_Design_of_Everyday_Things?edition=)
 
-[:snake: Vaughan, L. (2018) *Impractical Python Projects: Playful Programming Activities to Make You Smarter.* San Francisco, California: No Starch Press, Inc.](https://openlibrary.org/books/OL26832997M/Impractical_Python_Projects_Playful_Programming_Activities_to_Make_You_Smarter)
+[:bookmark: Crawford, C. (2013) *Chris Crawford on Interactive Storytelling.* 2nd edn. San Francisco, California: New Riders.](https://openlibrary.org/works/OL17524858W/Chris_Crawford_On_Interactive_Storytelling?edition=)
 
-[:brain: Du Sautoy, M. (2020) *The Creativity Code: How AI is Learning to Write, Paint and Think.* London: 4th Estate.](https://openlibrary.org/works/OL20156318W/The_Creativity_Code)
+[:joystick: Swink, S. (2009) *Game Feel: A Game Desinger's Guide to Virtual Sensation.* Burlington, Massachusetts: Morgan Kaufmann.](https://openlibrary.org/works/OL12037852W/Game_feel?edition=gamefeelgamedesi00swin)
 
 ### :video_game: Current Games
 Making games is brilliant, however I also like to find time to play them too! Here's what I'm playing at the moment:
 
-[:yellow_square: CD Projekt Red Studio (2020) *Cyberpunk 2077.* Warner Bros. Interactive Entertainment.](https://www.metacritic.com/game/pc/cyberpunk-2077)
+[:elf_man: Larian Studios Games (2017) *Divinity: Original Sin II*](https://www.metacritic.com/game/pc/divinity-original-sin-ii)
 
-[:alien: Paradox Interactive (2016) *Stellaris.*](https://www.metacritic.com/game/pc/stellaris)
+[:earth_africa: Firaxis Games (2016) *Sid Meier's Civilization VI.* 2K Games.](https://www.metacritic.com/game/pc/sid-meiers-civilization-vi)
 
-[:zzz: Media Molecule (2020) *Dreams.* Sony Interactive Entertainment.](https://www.metacritic.com/game/playstation-4/dreams)
-
+[:baby: Nicalis (2014) *The Binding of Isaac: Rebirth*](https://www.metacritic.com/game/pc/the-binding-of-isaac-rebirth)
 
  <!--Markdown Hyperlink Definitions-->
 [website]: https://frasergeorgeking.com

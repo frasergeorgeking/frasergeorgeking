@@ -52,7 +52,7 @@ I'm always trying to better myself and learn new and interesting things! I try t
 
 [:coffee: Norman, D. (2013) *The Design of Everyday Things.* Cambridge, Massachusetts: MIT Press.](https://openlibrary.org/works/OL17156280W/The_Design_of_Everyday_Things?edition=)
 
-[:bookmark: Crawford, C. (2013) *Chris Crawford on Interactive Storytelling.* 2nd edn. San Francisco, California: New Riders.](https://openlibrary.org/works/OL17524858W/Chris_Crawford_On_Interactive_Storytelling?edition=)
+[:brain: Spraul, V.,A. (2012) *Think Like a Programmer: An Introduction to Creative Problem Solving.* San Francisco, California: No Starch Press.](https://openlibrary.org/works/OL16714427W/Think_like_a_Programmer?edition=thinklikeprogram00spra)
 
 [:joystick: Swink, S. (2009) *Game Feel: A Game Desinger's Guide to Virtual Sensation.* Burlington, Massachusetts: Morgan Kaufmann.](https://openlibrary.org/works/OL12037852W/Game_feel?edition=gamefeelgamedesi00swin)
 

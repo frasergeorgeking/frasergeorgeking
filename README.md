@@ -6,8 +6,4 @@ Hello! I'm Fraser, a senior game developer with experience designing and impleme
 
 I'm currently going through something of a rebrand at the moment, so please bear with me whilst I shuffle the furniture around 🪑.
 
-If you need to reach out to me, your best bet is to connect with me on [LinkedIn](linkedin). You can also find out more about me on my website - [fraserk.dev](https://fraserk.dev).
-
-
- <!--Markdown Hyperlink Definitions-->
-[linkedin]: https://www.linkedin.com/in/frasergeorgeking/
+If you need to reach out to me, your best bet is to connect with me on [LinkedIn](https://www.linkedin.com/in/frasergeorgeking/). You can also find out more about me on my website - [fraserk.dev](https://fraserk.dev).
